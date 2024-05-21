@@ -1,8 +1,8 @@
-Olá! Me chamo Humberto, iniciei minha jornada no mundo da tecnologia 1998 com suporte técnico,
-atualmente trabalho como analista de suporte sênior e desde o início 2023 decidi realizar o sonho
-de se tornar desenvolvedor de software, trabalhar na area após se formar seria um sonho real, porém, sei que
-pode ser dificil com a minha idade talvez conseguir algo, hoje tenho 43 anos, irei me formar aos 45 anos,
-mais terei orgulho e entusiasmo em  programar para mim mesmo, espero um dia tentar colaborar ao maximo com a comunidade.
+Olá! Me chamo Humberto, iniciei minha jornada no mundo da tecnologia em 1998 em uma assistencia técnica da Metron Computadores,
+atualmente trabalho como analista de suporte sênior e desde o início 2023 decidi realizar o sonho de se tornar desenvolvedor de software,
+trabalhar na area após se formar seria um sonho real, porém, sei que pode ser dificil com a minha idade talvez conseguir algo,
+hoje tenho 43 anos, irei me formar aos 45 anos, mais terei orgulho e entusiasmo em  programar para mim mesmo, espero um dia tentar
+colaborar ao maximo com a comunidade.
 Um grande abraço a todos.
 
 ## Conecte-se comigo
